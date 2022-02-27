@@ -27,4 +27,7 @@ The "Titanic DataSet - Machine Learning" notebook also uses the titanic_preproce
 > - Data pre-processing
 > - Exploratory Data Analysis (EAD)
 > - Data Visualization
+> 
+![CoverImage](https://user-images.githubusercontent.com/10830272/155903635-a10f1670-110e-4b8f-b239-951bda14e98c.png)
+
 
