@@ -12,6 +12,8 @@ The notebook "Titanic DataSet - Data Analysis" takes the titanic_preprocessed.cs
 
 The "Titanic DataSet - Machine Learning" notebook also uses the titanic_preprocessed.csv as input, as the M.L. algorithms used prioritize numerical variables.
 
+![PipeLine](https://user-images.githubusercontent.com/10830272/156050731-11978e9a-6c36-47fa-bb6e-f409dcd2fb39.png)
+
 # General Information
 >Author: Lucas Lobianco De Matheo  
 >Title: **Kaggle Titanic DataSet**  
