@@ -3,6 +3,8 @@ This project, carried out in Jupyter Notebook, aims to explore the main Data Ana
 - Pandas, Numpy, Seaborn, Matplotlib, Plotly and sklearn are used.
 Divided into three notebooks, I separate the data cleaning, data analysis and machine learning part.
 
+![CoverImage](https://user-images.githubusercontent.com/10830272/155903635-a10f1670-110e-4b8f-b239-951bda14e98c.png)
+
 # How to Use
 In this project you will find a .csv file that was used to start the project (titanic.csv) and a preprocessing result file (titanic_preprocessed.csv) and (titanic_preprocessed_2.csv).
 
@@ -30,6 +32,6 @@ The "Titanic DataSet - Machine Learning" notebook also uses the titanic_preproce
 > - Exploratory Data Analysis (EAD)
 > - Data Visualization
 > 
-![CoverImage](https://user-images.githubusercontent.com/10830272/155903635-a10f1670-110e-4b8f-b239-951bda14e98c.png)
+
 
 
