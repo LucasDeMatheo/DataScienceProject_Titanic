@@ -23,6 +23,9 @@ The "Titanic DataSet - Machine Learning" notebook also uses the titanic_preproce
 >Extension: .csv
 >Source: https://www.kaggle.com/azeembootwala/titanic
 >Date: 01-02-2022
+
+![Result](https://user-images.githubusercontent.com/10830272/156065342-48897d2a-0a8f-44d1-9406-11b3d42f700b.png)
+
 >
 > **Main Skills of this project:** 
 > - **Data Preparation**
