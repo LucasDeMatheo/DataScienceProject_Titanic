@@ -5,17 +5,6 @@ Divided into three notebooks, I separate the data cleaning, data analysis and ma
 
 ![CoverImage](https://user-images.githubusercontent.com/10830272/155903635-a10f1670-110e-4b8f-b239-951bda14e98c.png)
 
-# How to Use
-In this project you will find a .csv file that was used to start the project (titanic.csv) and a preprocessing result file (titanic_preprocessed.csv) and (titanic_preprocessed_2.csv).
-
-The notebook that starts the project is the "Titanic DataSet - Data Cleasing", which generates the titanic_preprocessed.csv, useful for the analysis part.
-
-The notebook "Titanic DataSet - Data Analysis" takes the titanic_preprocessed.csv as input and generates the titanic_preprocessed_2.csv which can later be used in BI platforms like PowerBI as an add-on.
-
-The "Titanic DataSet - Machine Learning" notebook also uses the titanic_preprocessed.csv as input, as the M.L. algorithms used prioritize numerical variables.
-
-![PipeLine](https://user-images.githubusercontent.com/10830272/156050731-11978e9a-6c36-47fa-bb6e-f409dcd2fb39.png)
-
 # General Information
 >Author: Lucas Lobianco De Matheo  
 >Title: **Kaggle Titanic DataSet**  
@@ -31,6 +20,18 @@ The "Titanic DataSet - Machine Learning" notebook also uses the titanic_preproce
 > - Data pre-processing
 > - Exploratory Data Analysis (EAD)
 > - Data Visualization
+
+# How to Use
+In this project you will find a .csv file that was used to start the project (titanic.csv) and a preprocessing result file (titanic_preprocessed.csv) and (titanic_preprocessed_2.csv).
+
+The notebook that starts the project is the "Titanic DataSet - Data Cleasing", which generates the titanic_preprocessed.csv, useful for the analysis part.
+
+The notebook "Titanic DataSet - Data Analysis" takes the titanic_preprocessed.csv as input and generates the titanic_preprocessed_2.csv which can later be used in BI platforms like PowerBI as an add-on.
+
+The "Titanic DataSet - Machine Learning" notebook also uses the titanic_preprocessed.csv as input, as the M.L. algorithms used prioritize numerical variables.
+
+![PipeLine](https://user-images.githubusercontent.com/10830272/156050731-11978e9a-6c36-47fa-bb6e-f409dcd2fb39.png)
+
 > 
 # Insights 
 
